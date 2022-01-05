@@ -1,1 +1,4 @@
 me_ignore.txt
+*.py
+!Arquivo_3.py
+pasta_teste/
